@@ -44,6 +44,7 @@ docker-compose up -d
 | Read by ID | GET | url parameter `134.209.153.237:6969/rest/user/{id}` | status 200 name,id,language,framework as JSON|
 | Delete by ID | DELETE | url parameter `134.209.153.237:6969/rest/user/{id}` | 200 |
 
+![testing](./output.png)
 --- 
 
 ### Server URL
