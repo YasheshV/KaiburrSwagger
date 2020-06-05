@@ -27,7 +27,7 @@ A task project for the Kaiburr recruitment process.
 
 ### How to run
 
-The following command will run a local mongoDB instance in a docker container binded to port `27017` and a maven application bound to port `8080`.
+The following command will run a local mongoDB instance in a docker container binded to port `27017` and a maven application bound to port `8080` and forwarded to port `6969`.
 
 ```sh
 docker-compose up -d
