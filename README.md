@@ -47,10 +47,4 @@ docker-compose up -d
 ![testing](./testing.png)
 --- 
 
-### Server URL
-
-* Base URL for the API: `134.209.153.237:6969`
-
----
-
 Made with :heart: by Vishvam Vyas
